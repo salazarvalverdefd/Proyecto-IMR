@@ -1,4 +1,1 @@
-# Proyecto-IMR
-Proyecto IMR
-
-Probando
+# Notebooks del proyecto de resonancias magnéticas
